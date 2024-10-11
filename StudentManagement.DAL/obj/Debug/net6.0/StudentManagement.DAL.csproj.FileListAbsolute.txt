@@ -1,0 +1,14 @@
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.DAL.deps.json
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.DAL.dll
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.DAL.pdb
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.dll
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\refint\StudentManagement.DAL.dll
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.pdb
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\ref\StudentManagement.DAL.dll
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\bin\Debug\net6.0\StudentManagement.DAL.runtimeconfig.json
+C:\Users\Admin\RiderProjects\StudentManagement\StudentManagement.DAL\obj\Debug\net6.0\StudentManagement.DAL.genruntimeconfig.cache
